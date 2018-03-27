@@ -1,6 +1,7 @@
 🎅 Secret Santa
 -------
 
+Input a group of friends (emails) and this script will assign to each person in the group another to secretly give a gift. Each group member will be notified by email about the person assigned to
 
 Licença
 -------
