@@ -23,7 +23,7 @@ from email.mime.text import MIMEText
 def SecretFriend(emails):
 	n = len(emails)
 	if n ==1:
-		print "No SecretFriend is possible"
+		print("No SecretFriend is possible")
 		return 0
 	else:
 		friends = sample(range(n),n)
