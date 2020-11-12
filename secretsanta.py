@@ -46,5 +46,6 @@ def SecretFriend(emails):
 		return 0
 
 # example
-emails = ["friend1@com","friend2@net","friend3@org"]
-SecretFriend(emails)
+if __name__ == "__main__":
+	emails = ["friend1@com","friend2@net","friend3@org"]
+	SecretFriend(emails)
